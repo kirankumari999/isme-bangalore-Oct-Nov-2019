@@ -28,3 +28,5 @@ Multiple references are borrowed from different sources of internet and differen
 
 Assignment:
 https://medium.com/@kirank.isme1820/neural-network-8f31915d5a29?sk=96e243347158b6a7e258ce944a17cdc5
+
+https://medium.com/@kirank.isme1820/basics-of-machine-learning-6de7751003d0?source=friends_link&sk=b98de5620cda6c677a1c9d8ff92cd182
