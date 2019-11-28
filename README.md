@@ -32,3 +32,6 @@ https://medium.com/@kirank.isme1820/neural-network-8f31915d5a29?sk=96e243347158b
 https://medium.com/@kirank.isme1820/basics-of-machine-learning-6de7751003d0?source=friends_link&sk=b98de5620cda6c677a1c9d8ff92cd182
 
 https://medium.com/@kirank.isme1820/difference-between-linear-and-logistic-regression-cc232136957?sk=3aa1d39b3c8cc8cafdf88d0eaf3a5b16
+
+https://medium.com/@kirank.isme1820/white-wine-quality-prediction-928a36fc3df0?sk=d05b7cde2475d95f2d29e865d4e2776b
+
